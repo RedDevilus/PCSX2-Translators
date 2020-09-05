@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PCSX2 1.6.0\n"
 "Report-Msgid-Bugs-To: https://github.com/PCSX2/pcsx2/issues\n"
 "POT-Creation-Date: 2020-02-10 17:29+0000\n"
-"PO-Revision-Date: 2020-09-05 14:05+0000\n"
+"PO-Revision-Date: 2020-09-05 14:18+0000\n"
 "Last-Translator: RedDevilus <martensregis@gmail.com>\n"
 "Language-Team: Dutch <http://translate.govanify.com/projects/pcsx2/test_main/"
 "nl/>\n"
@@ -26,7 +26,7 @@ msgstr ""
 
 #: common/include/Utilities/Exceptions.h:216
 msgid "No reason given."
-msgstr "Blabla3."
+msgstr "REEE."
 
 #: common/include/Utilities/Exceptions.h:255
 msgid "Parse error"
