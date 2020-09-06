@@ -7,19 +7,18 @@ msgstr ""
 "Project-Id-Version: PCSX2 1.7.0\n"
 "Report-Msgid-Bugs-To: https://github.com/PCSX2/pcsx2/issues\n"
 "POT-Creation-Date: 2020-02-10 17:29+0000\n"
-"PO-Revision-Date: 2020-09-05 14:55+0000\n"
-"Last-Translator: RedDevilus <martensregis@gmail.com>\n"
-"Language-Team: French <http://translate.govanify.com/projects/pcsx2/"
-"test_main/fr/>\n"
-"Language: fr_FR\n"
+"PO-Revision-Date: 2020-05-17 17:48+0200\n"
+"Last-Translator: LaneSh4d0w\n"
+"Language-Team: Atomic83;goldeng;piorrro33 <odakawoi@yahoo.fr;"
+"piorrro33@outlook.com>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.2.2\n"
 "X-Poedit-KeywordsList: _;pxL;_d;pxDt;_t;pxLt\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: trunk\n"
+"X-Generator: Poedit 2.3.1\n"
 "X-Poedit-SearchPath-0: pcsx2\n"
 "X-Poedit-SearchPath-1: common\n"
 
@@ -29,13 +28,13 @@ msgstr "Aucune raison donnée."
 
 #: common/include/Utilities/Exceptions.h:255
 msgid "Parse error"
-msgstr "Erreur d'analyse Parse"
+msgstr "Erreur d'analyse"
 
 #: common/include/Utilities/Exceptions.h:279
 msgid "Your machine's hardware is incapable of running PCSX2.  Sorry dood."
 msgstr ""
 "Le matériel de votre ordinateur rend impossible le fonctionnement de PCSX2.  "
-"Désolé mec.Desoleeeeh3."
+"Désolé mec."
 
 #: common/src/Utilities/Exceptions.cpp:204
 msgid "Oh noes! Out of memory!"
@@ -225,7 +224,7 @@ msgstr "Enregistrer depuis"
 
 #: pcsx2/Recording/NewRecordingFrame.cpp:41
 msgid "Ok"
-msgstr "miaou"
+msgstr ""
 
 #: pcsx2/Recording/NewRecordingFrame.cpp:42 pcsx2/gui/AppInit.cpp:742
 msgid "Cancel"
